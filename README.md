@@ -1,2 +1,0 @@
-# Barapay
-BARAPAY APP PROJECT
